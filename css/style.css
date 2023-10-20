@@ -80,6 +80,15 @@ ul, ol {
 	cursor: pointer;
 }
 
+.btn-purchase:hover{
+	transition : 1000ms;
+	padding: 10px 50px;
+	transform : translateY(-0px);
+	background: linear-gradient(360deg, #2e2b29 0%, #4d4541 100%);
+	color: #0066cc;
+	border: solid 4px #0066cc;
+}
+
 .btn-chase {
 	display:flex; 
 	justify-content: center; 
@@ -120,6 +129,15 @@ ul, ol {
 	flex-direction: row;
 	align-items: center;
 	cursor: pointer;
+}
+
+.btn-taketour:hover{
+	transition : 1000ms;
+	padding: 10px 50px;
+	transform : translateY(-0px);
+	background: linear-gradient(360deg, #2e2b29 0%, #4d4541 100%);
+	color: #0066cc;
+	border: solid 4px #0066cc;
 }
 
 .para {
