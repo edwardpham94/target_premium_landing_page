@@ -436,8 +436,13 @@ ul, ol {
 -----------------------*/
 
 .footer-section {
-	background: #222736;
+	background: #222222;
 }
+
+.copyright-option {
+	background: #222222;
+}
+
 .footer-section .footer-text {
 	padding: 30px 0 20px;
 	color:#f2eeed; 
