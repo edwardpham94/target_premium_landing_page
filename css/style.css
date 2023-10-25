@@ -479,7 +479,8 @@ ul, ol {
 }
 
 .mainmenu {
-	display: flex;  
+	display: flex;
+	justify-content: space-between;
 	padding-top:2.3rem;
 }
 .gallery-item {
